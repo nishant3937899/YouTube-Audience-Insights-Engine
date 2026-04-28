@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: youtube_insight_engine
+Version: 0.0.0
+Summary: IN this project we take the top 500 comments of the youtube video and do sentiment analysis on it 
+Home-page: https://github.com/nishant3937899/YouTube-Audience-Insights-Engine
+Author: Nishant Chandra Verma
+Author-email: nishantchandra987@gmail.com
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: summary
+
+youtube insight engine
