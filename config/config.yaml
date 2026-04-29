@@ -1,0 +1,9 @@
+artifact_folder_loc: artifacts
+
+data_ingestion:
+  rootdir_zip_down: artifacts/data_ingestion
+  source_url: https://github.com/nishant3937899/dataset_store_repo/raw/refs/heads/main/YoutubeCommentsDataSet.zip
+  zip_downl_loc: artifacts/data_ingestion/data.zip
+  unzip_dir_loc: artifacts/data_ingestion
+  unzip_loc: artifacts/data_ingestion/YoutubeCommentsDataSet.csv
+ 
